@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/nitesh-anand-a01154248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitesh-anand-a01154248" height="30" width="40" /></a>
 <a href="https://fb.com/100055953522825&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100055953522825&mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/niteshsharma3101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niteshsharma3101" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@niteshanand7420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@niteshanand7420" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/niteshanand7420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="niteshanand7420" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
